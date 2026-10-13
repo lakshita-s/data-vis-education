@@ -52,7 +52,7 @@ async function main() {
       plugins: {
         title: {
           display: true,
-          text: "Students reporting multiple health concerns increases by age",
+          text: "Students health concerns increase by age",
         },
         tooltip: {
           callbacks: {
