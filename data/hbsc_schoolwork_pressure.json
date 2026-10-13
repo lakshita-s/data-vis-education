@@ -1,0 +1,928 @@
+{
+  "data": [
+    {
+      "country": "Lithuania",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 61.0,
+      "male_pct": 58.0
+    },
+    {
+      "country": "Serbia",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 52.0,
+      "male_pct": 53.0
+    },
+    {
+      "country": "England",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 59.0,
+      "male_pct": 45.0
+    },
+    {
+      "country": "Italy",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 50.0,
+      "male_pct": 46.0
+    },
+    {
+      "country": "Poland",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 54.0,
+      "male_pct": 33.0
+    },
+    {
+      "country": "Spain",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 41.0,
+      "male_pct": 40.0
+    },
+    {
+      "country": "Slovenia",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 44.0,
+      "male_pct": 35.0
+    },
+    {
+      "country": "Canada",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 45.0,
+      "male_pct": 34.0
+    },
+    {
+      "country": "Iceland",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 38.0,
+      "male_pct": 36.0
+    },
+    {
+      "country": "North Macedonia",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 36.0,
+      "male_pct": 36.0
+    },
+    {
+      "country": "Wales",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 36.0,
+      "male_pct": 36.0
+    },
+    {
+      "country": "Malta",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 35.0,
+      "male_pct": 36.0
+    },
+    {
+      "country": "Scotland",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 40.0,
+      "male_pct": 30.0
+    },
+    {
+      "country": "Finland",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 35.0,
+      "male_pct": 32.0
+    },
+    {
+      "country": "Romania",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 34.0,
+      "male_pct": 32.0
+    },
+    {
+      "country": "Estonia",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 35.0,
+      "male_pct": 31.0
+    },
+    {
+      "country": "Czechia",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 35.0,
+      "male_pct": 29.0
+    },
+    {
+      "country": "Belgium (French)",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 38.0,
+      "male_pct": 25.0
+    },
+    {
+      "country": "Portugal",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 38.0,
+      "male_pct": 24.0
+    },
+    {
+      "country": "Greece",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 28.0,
+      "male_pct": 31.0
+    },
+    {
+      "country": "Ireland",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 30.0,
+      "male_pct": 28.0
+    },
+    {
+      "country": "Latvia",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 29.0,
+      "male_pct": 27.0
+    },
+    {
+      "country": "Norway",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 33.0,
+      "male_pct": 23.0
+    },
+    {
+      "country": "Croatia",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 26.0,
+      "male_pct": 29.0
+    },
+    {
+      "country": "Republic of Moldova",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 27.0,
+      "male_pct": 27.0
+    },
+    {
+      "country": "France",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 32.0,
+      "male_pct": 20.0
+    },
+    {
+      "country": "Cyprus",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 26.0,
+      "male_pct": 27.0
+    },
+    {
+      "country": "Armenia",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 26.0,
+      "male_pct": 27.0
+    },
+    {
+      "country": "Kyrgyzstan",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 28.0,
+      "male_pct": 24.0
+    },
+    {
+      "country": "Germany",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 25.0,
+      "male_pct": 25.0
+    },
+    {
+      "country": "Bulgaria",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 25.0,
+      "male_pct": 25.0
+    },
+    {
+      "country": "Sweden",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 29.0,
+      "male_pct": 21.0
+    },
+    {
+      "country": "Luxembourg",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 26.0,
+      "male_pct": 22.0
+    },
+    {
+      "country": "Switzerland",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 24.0,
+      "male_pct": 23.0
+    },
+    {
+      "country": "Denmark",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 25.0,
+      "male_pct": 22.0
+    },
+    {
+      "country": "Hungary",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 22.0,
+      "male_pct": 25.0
+    },
+    {
+      "country": "Belgium (Flemish)",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 23.0,
+      "male_pct": 23.0
+    },
+    {
+      "country": "Netherlands",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 19.0,
+      "male_pct": 19.0
+    },
+    {
+      "country": "Slovakia",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 17.0,
+      "male_pct": 20.0
+    },
+    {
+      "country": "Tajikistan",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 18.0,
+      "male_pct": 19.0
+    },
+    {
+      "country": "Albania",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 17.0,
+      "male_pct": 19.0
+    },
+    {
+      "country": "Kazakhstan",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 16.0,
+      "male_pct": 17.0
+    },
+    {
+      "country": "Austria",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 13.0,
+      "male_pct": 16.0
+    },
+    {
+      "country": "Greenland",
+      "survey_year": 2022,
+      "age_group": "11-year-olds",
+      "female_pct": 9.0,
+      "male_pct": 11.0
+    },
+    {
+      "country": "Slovenia",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 80.0,
+      "male_pct": 60.0
+    },
+    {
+      "country": "Serbia",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 75.0,
+      "male_pct": 65.0
+    },
+    {
+      "country": "Cyprus",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 74.0,
+      "male_pct": 63.0
+    },
+    {
+      "country": "Lithuania",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 70.0,
+      "male_pct": 62.0
+    },
+    {
+      "country": "Malta",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 74.0,
+      "male_pct": 58.0
+    },
+    {
+      "country": "Spain",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 70.0,
+      "male_pct": 59.0
+    },
+    {
+      "country": "Poland",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 72.0,
+      "male_pct": 53.0
+    },
+    {
+      "country": "England",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 69.0,
+      "male_pct": 50.0
+    },
+    {
+      "country": "Iceland",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 68.0,
+      "male_pct": 51.0
+    },
+    {
+      "country": "Portugal",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 75.0,
+      "male_pct": 43.0
+    },
+    {
+      "country": "Italy",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 65.0,
+      "male_pct": 51.0
+    },
+    {
+      "country": "Romania",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 61.0,
+      "male_pct": 52.0
+    },
+    {
+      "country": "Greece",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 64.0,
+      "male_pct": 47.0
+    },
+    {
+      "country": "Czechia",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 63.0,
+      "male_pct": 44.0
+    },
+    {
+      "country": "North Macedonia",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 53.0,
+      "male_pct": 51.0
+    },
+    {
+      "country": "Finland",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 57.0,
+      "male_pct": 46.0
+    },
+    {
+      "country": "Belgium (French)",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 61.0,
+      "male_pct": 42.0
+    },
+    {
+      "country": "Sweden",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 63.0,
+      "male_pct": 39.0
+    },
+    {
+      "country": "Canada",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 57.0,
+      "male_pct": 42.0
+    },
+    {
+      "country": "Estonia",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 59.0,
+      "male_pct": 40.0
+    },
+    {
+      "country": "Wales",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 56.0,
+      "male_pct": 41.0
+    },
+    {
+      "country": "Croatia",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 54.0,
+      "male_pct": 41.0
+    },
+    {
+      "country": "Ireland",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 56.0,
+      "male_pct": 38.0
+    },
+    {
+      "country": "Netherlands",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 52.0,
+      "male_pct": 37.0
+    },
+    {
+      "country": "Luxembourg",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 53.0,
+      "male_pct": 33.0
+    },
+    {
+      "country": "Latvia",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 52.0,
+      "male_pct": 33.0
+    },
+    {
+      "country": "Belgium (Flemish)",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 46.0,
+      "male_pct": 37.0
+    },
+    {
+      "country": "Norway",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 54.0,
+      "male_pct": 29.0
+    },
+    {
+      "country": "Albania",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 48.0,
+      "male_pct": 35.0
+    },
+    {
+      "country": "Armenia",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 45.0,
+      "male_pct": 38.0
+    },
+    {
+      "country": "Scotland",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 50.0,
+      "male_pct": 31.0
+    },
+    {
+      "country": "France",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 51.0,
+      "male_pct": 31.0
+    },
+    {
+      "country": "Bulgaria",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 47.0,
+      "male_pct": 31.0
+    },
+    {
+      "country": "Switzerland",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 44.0,
+      "male_pct": 29.0
+    },
+    {
+      "country": "Hungary",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 41.0,
+      "male_pct": 27.0
+    },
+    {
+      "country": "Slovakia",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 41.0,
+      "male_pct": 27.0
+    },
+    {
+      "country": "Republic of Moldova",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 37.0,
+      "male_pct": 27.0
+    },
+    {
+      "country": "Austria",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 34.0,
+      "male_pct": 28.0
+    },
+    {
+      "country": "Germany",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 35.0,
+      "male_pct": 26.0
+    },
+    {
+      "country": "Denmark",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 34.0,
+      "male_pct": 26.0
+    },
+    {
+      "country": "Kyrgyzstan",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 34.0,
+      "male_pct": 26.0
+    },
+    {
+      "country": "Tajikistan",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 21.0,
+      "male_pct": 17.0
+    },
+    {
+      "country": "Kazakhstan",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 20.0,
+      "male_pct": 17.0
+    },
+    {
+      "country": "Greenland",
+      "survey_year": 2022,
+      "age_group": "13-year-olds",
+      "female_pct": 13.0,
+      "male_pct": 22.0
+    },
+    {
+      "country": "Italy",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 82.0,
+      "male_pct": 63.0
+    },
+    {
+      "country": "Portugal",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 87.0,
+      "male_pct": 57.0
+    },
+    {
+      "country": "Iceland",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 83.0,
+      "male_pct": 61.0
+    },
+    {
+      "country": "Cyprus",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 81.0,
+      "male_pct": 62.0
+    },
+    {
+      "country": "England",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 82.0,
+      "male_pct": 59.0
+    },
+    {
+      "country": "Malta",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 79.0,
+      "male_pct": 61.0
+    },
+    {
+      "country": "Serbia",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 75.0,
+      "male_pct": 63.0
+    },
+    {
+      "country": "Scotland",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 78.0,
+      "male_pct": 58.0
+    },
+    {
+      "country": "Wales",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 78.0,
+      "male_pct": 58.0
+    },
+    {
+      "country": "Spain",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 77.0,
+      "male_pct": 59.0
+    },
+    {
+      "country": "Slovenia",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 82.0,
+      "male_pct": 53.0
+    },
+    {
+      "country": "Canada",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 76.0,
+      "male_pct": 55.0
+    },
+    {
+      "country": "Sweden",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 78.0,
+      "male_pct": 51.0
+    },
+    {
+      "country": "North Macedonia",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 72.0,
+      "male_pct": 56.0
+    },
+    {
+      "country": "Lithuania",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 70.0,
+      "male_pct": 56.0
+    },
+    {
+      "country": "Estonia",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 72.0,
+      "male_pct": 50.0
+    },
+    {
+      "country": "Belgium (French)",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 69.0,
+      "male_pct": 46.0
+    },
+    {
+      "country": "Finland",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 71.0,
+      "male_pct": 44.0
+    },
+    {
+      "country": "Ireland",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 64.0,
+      "male_pct": 49.0
+    },
+    {
+      "country": "Greece",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 63.0,
+      "male_pct": 47.0
+    },
+    {
+      "country": "Poland",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 68.0,
+      "male_pct": 41.0
+    },
+    {
+      "country": "Latvia",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 64.0,
+      "male_pct": 42.0
+    },
+    {
+      "country": "Belgium (Flemish)",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 63.0,
+      "male_pct": 43.0
+    },
+    {
+      "country": "Norway",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 66.0,
+      "male_pct": 39.0
+    },
+    {
+      "country": "Albania",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 63.0,
+      "male_pct": 40.0
+    },
+    {
+      "country": "Netherlands",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 62.0,
+      "male_pct": 41.0
+    },
+    {
+      "country": "Luxembourg",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 64.0,
+      "male_pct": 38.0
+    },
+    {
+      "country": "Czechia",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 62.0,
+      "male_pct": 39.0
+    },
+    {
+      "country": "Romania",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 52.0,
+      "male_pct": 45.0
+    },
+    {
+      "country": "France",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 59.0,
+      "male_pct": 31.0
+    },
+    {
+      "country": "Bulgaria",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 54.0,
+      "male_pct": 36.0
+    },
+    {
+      "country": "Germany",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 56.0,
+      "male_pct": 34.0
+    },
+    {
+      "country": "Croatia",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 50.0,
+      "male_pct": 34.0
+    },
+    {
+      "country": "Switzerland",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 53.0,
+      "male_pct": 29.0
+    },
+    {
+      "country": "Austria",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 46.0,
+      "male_pct": 31.0
+    },
+    {
+      "country": "Republic of Moldova",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 47.0,
+      "male_pct": 28.0
+    },
+    {
+      "country": "Hungary",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 44.0,
+      "male_pct": 28.0
+    },
+    {
+      "country": "Denmark",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 44.0,
+      "male_pct": 27.0
+    },
+    {
+      "country": "Kyrgyzstan",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 40.0,
+      "male_pct": 27.0
+    },
+    {
+      "country": "Slovakia",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 40.0,
+      "male_pct": 24.0
+    },
+    {
+      "country": "Armenia",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 38.0,
+      "male_pct": 19.0
+    },
+    {
+      "country": "Tajikistan",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 27.0,
+      "male_pct": 18.0
+    },
+    {
+      "country": "Kazakhstan",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 21.0,
+      "male_pct": 18.0
+    },
+    {
+      "country": "Greenland",
+      "survey_year": 2022,
+      "age_group": "15-year-olds",
+      "female_pct": 12.0,
+      "male_pct": 19.0
+    }
+  ]
+}

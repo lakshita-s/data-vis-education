@@ -1,0 +1,32 @@
+{
+  "source": {
+    "name": "CDC 2025 Youth Risk Behavior Survey",
+    "survey_year": 2025,
+    "population": "U.S. high school students in grades 9-12",
+    "method": "CDC survey-weighted percentages"
+  },
+  "measure": {
+    "id": "sleep",
+    "title": "Getting 8 or more hours of sleep",
+    "question": "On an average school night, how many hours of sleep do you get?",
+    "definition": "Percentage of students who got 8 or more hours of sleep on an average school night."
+  },
+  "data": [
+    {
+      "group": "Grade 9",
+      "percentage": 31.2
+    },
+    {
+      "group": "Grade 10",
+      "percentage": 24.9
+    },
+    {
+      "group": "Grade 11",
+      "percentage": 20.3
+    },
+    {
+      "group": "Grade 12",
+      "percentage": 19.7
+    }
+  ]
+}

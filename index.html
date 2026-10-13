@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>What Does School Feel Like?</title>
+    <link rel="stylesheet" href="https://use.typekit.net/afd2rkb.css" />
+    <link rel="stylesheet" href="style.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  </head>
+
+  <body>
+    <header class="hero" id="hero">
+      <p class="hero-subtitle">An investigation into secondary education</p>
+      <h1>what does school feel like?</h1>
+      <button id="exploreButton">explore the data ↓</button>
+    </header>
+
+    <main>
+      <section class="content-section">
+        <div class="section-heading" id="school-experience">
+          <h2>the student experience</h2>
+          <p>
+            How do schoolwork pressure and teacher support vary as students get
+            older?
+          </p>
+        </div>
+
+        <div class="charts-container">
+          <div class="chart-container">
+            <canvas id="chartPressureStudents"></canvas>
+          </div>
+
+          <div class="chart-container">
+            <canvas id="chartSupportStudents"></canvas>
+          </div>
+
+          <div class="compare-section">
+            <button id="compareButton">compare the trends ↓</button>
+          </div>
+
+          <div class="chart-container wide" id="combinedChartContainer" hidden>
+            <canvas id="chartSchoolExperience"></canvas>
+          </div>
+        </div>
+
+        <div class="insight-section">
+          <button class="insight-button" aria-expanded="false">
+            What does this show?
+          </button>
+          <div class="insight-text" hidden>
+            <p>
+              Across the participating countries in this dataset, reported
+              schoolwork pressure tends to increase with age, while the
+              proportion reporting significant teacher support tends to
+              decrease. As students get older, are their school experiences
+              balancing academic demands with the support they need?
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="content-section">
+        <div class="section-heading">
+          <h2>beyond academic pressure</h2>
+          <p>
+            What role might social experiences at school play in students'
+            well-being?
+          </p>
+          <h3 style="font-style: italic">
+            Every year, one in three students encounters bullying and physical
+            abuse, and over 246 million children are victims of gender-based
+            violence in or near schools. Peer violence at school is reported by
+            half of all adolescents worldwide.
+          </h3>
+        </div>
+
+        <div class="chart-container wide">
+          <canvas id="chartBullyingStudents"></canvas>
+        </div>
+        <div class="insight-section">
+          <button class="insight-button" aria-expanded="false">
+            Why is this important?
+          </button>
+
+          <div class="insight-text" hidden>
+            <p>
+              Research by Human Rights Watch across more than 15 countries has
+              documented school-related violence, including physical punishment,
+              sexual abuse and harassment, exploitation, and bullying, by the
+              hands of teachers, school officials, and other students.
+            </p>
+            <p>
+              If children can't feel safe at school, their primary environment
+              to exist in outside of a home setting, where else can they go?
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="content-section">
+        <div class="section-heading">
+          <h2>when school ends, does the pressure stop?</h2>
+          <p>
+            Physical well-being and sleep habits are also significant parts of
+            the adolescent school experience.
+          </p>
+        </div>
+
+        <div class="chart-container wide">
+          <canvas id="chartHealthStudents"></canvas>
+        </div>
+
+        <div class="section-heading sleep-heading">
+          <h3>how many students actually get adequate sleep?</h3>
+        </div>
+
+        <div class="sleep-stats">
+          <div class="stat-card">
+            <p class="stat-label">OVERALL</p>
+            <p class="stat-number">24.3%</p>
+            <p class="stat-description">of students</p>
+          </div>
+
+          <div class="stat-card">
+            <p class="stat-label">FEMALE</p>
+            <p class="stat-number">22.2%</p>
+            <p class="stat-description">of female students</p>
+          </div>
+
+          <div class="stat-card">
+            <p class="stat-label">MALE</p>
+            <p class="stat-number">26.2%</p>
+            <p class="stat-description">of male students</p>
+          </div>
+        </div>
+
+        <div class="chart-container wide">
+          <canvas id="chartSleepStudents"></canvas>
+        </div>
+        <div class="insight-section">
+          <button class="insight-button" aria-expanded="false">
+            What does this mean?
+          </button>
+
+          <div class="insight-text" hidden>
+            <p>
+              According to a Yale University national survey, 58% of high school
+              students report feeling chronically tired. The majority of
+              teenagers are critically sleep deprived due to early school start
+              hours, late-night homework, and screen time.
+            </p>
+            <p>
+              Sleep deprivation and neglected health can have serious long-term
+              consequences for students' mental and physical health, including
+              increased risk of depression, anxiety, and suicidal ideation, and
+              impaired cognitive function, attention, and memory.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="content-section">
+        <div class="section-heading">
+          <h2>why does any of this matter?</h2>
+          <p>
+            Based on CDC research, 49% of high schoolers feel stressed "most or
+            all of the time" due to academics, and 40% of high school students
+            experience persistent feelings of sadness or hopelessness. These
+            statistics are dire; if students across the world are feeling so
+            massively unsupported by their schools, does this not call for a
+            major change in our systems?
+          </p>
+          <p>
+            This data visualization project highlights the need for a more
+            holistic approach to education that prioritizes students' well-being
+            alongside academic achievement. Sacrificing the well-being of our
+            youth is not worth the cost of academic success.
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+    <script src="js/schoolwork_pressure.js"></script>
+    <script src="js/teacher_support.js"></script>
+    <script src="js/student_sleep.js"></script>
+    <script src="js/health_complaints.js"></script>
+    <script src="js/student_bullying.js"></script>
+    <script src="js/combine.js"></script>
+  </body>
+</html>

@@ -1,0 +1,215 @@
+/* global */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background-color: #fefae0;
+  color: #283618;
+  font-family: "sets-grotesk-l", sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  text-align: center;
+}
+
+main {
+  width: 92%;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+/* header */
+.hero {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 5vh 4%;
+}
+
+.hero h1 {
+  max-width: 900px;
+  margin: 20px 0;
+  font-size: 56px;
+  line-height: 1.1;
+}
+
+.hero-subtitle {
+  font-size: 13px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+#exploreButton {
+  margin-top: 24px;
+  padding: 14px 24px;
+  border: none;
+  border-radius: 30px;
+  background: #283618;
+  color: white;
+  font-size: 16px;
+  transition: transform 0.2s ease;
+}
+
+#exploreButton:hover {
+  transform: translateY(-2px);
+}
+
+/* sections */
+.content-section {
+  padding: 60px 0;
+  scroll-margin-top: 20px;
+}
+
+.section-heading {
+  max-width: 750px;
+  margin: 0 auto 35px;
+  padding: 0 2%;
+}
+
+.section-heading h2 {
+  margin: 0 0 12px;
+  font-size: 32px;
+  line-height: 1.2;
+}
+
+.section-heading p {
+  max-width: 650px;
+  margin: 0 auto;
+}
+
+/* charts */
+.charts-container {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 35px 3%;
+  align-items: start;
+  width: 100%;
+}
+
+.chart-container {
+  position: relative;
+  width: 100%;
+  min-width: 0;
+  height: 400px;
+  margin: 0 auto;
+}
+
+.chart-container.wide {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* comparison button */
+.compare-section {
+  grid-column: 1 / -1;
+  padding: 10px 0;
+  text-align: center;
+}
+
+#compareButton {
+  padding: 14px 32px;
+  border: none;
+  border-radius: 30px;
+  background: #606c38;
+  color: white;
+  font-size: 16px;
+  transition:
+    background 0.2s ease,
+    transform 0.2s ease;
+}
+
+#compareButton:hover {
+  background: #414c27;
+  transform: translateY(-2px);
+}
+
+#exploreButton:focus-visible,
+#compareButton:focus-visible {
+  outline: 3px solid #bc6c25;
+  outline-offset: 4px;
+}
+
+#combinedChartContainer {
+  grid-column: 1 / -1;
+  width: 100%;
+  max-width: 1000px;
+  height: 450px;
+  margin: 0 auto;
+}
+
+#combinedChartContainer[hidden] {
+  display: none;
+}
+
+/* sleep section */
+.sleep-stats {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2%;
+  width: 100%;
+  max-width: 1000px;
+  margin: 30px auto 40px;
+}
+
+.stat-card {
+  padding: 24px 12px;
+  border-radius: 12px;
+}
+
+.stat-label {
+  margin: 0 0 12px;
+  color: #5f6d3a;
+  font-size: 13px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.stat-number {
+  margin: 0;
+  color: #35452c;
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+.stat-description {
+  margin-bottom: 0;
+  color: #606354;
+  font-size: 14px;
+}
+
+.section-heading.sleep-heading h3 {
+  font-size: 26px;
+  font-style: italic;
+  margin-top: 60px !important;
+}
+
+/*  hidden insigh */
+.insight-section {
+  max-width: 750px;
+  margin: 20px auto 0;
+  padding: 0 2%;
+  text-align: left;
+}
+
+.insight-button {
+  padding: 10px 0;
+  border: none;
+  border-bottom: 1px solid #606c38;
+  background: transparent;
+  color: #414c27;
+  font: inherit;
+}

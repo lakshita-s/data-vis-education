@@ -1,0 +1,921 @@
+{
+  "source": "OECD PISA 2022",
+  "measure": {
+    "id": "bullying",
+    "title": "Students' exposure to bullying",
+    "definition": "Country-level indicators of exposure to bullying reported by students. A frequently bullied student is in the top 10% of the PISA bullying-exposure index across countries/economies.",
+    "unit": "percent"
+  },
+  "data": [
+    {
+      "country": "OECD average",
+      "frequently_bullied_pct": 8.6,
+      "any_bullying_pct": 47.47,
+      "made_fun_of_weekly_pct": 6.25,
+      "threatened_weekly_pct": 1.97,
+      "hit_or_pushed_weekly_pct": 2.45,
+      "rumors_weekly_pct": 3.42,
+      "upsetting_info_posted_online_weekly_pct": 1.66
+    },
+    {
+      "country": "Argentina",
+      "frequently_bullied_pct": 8.88,
+      "any_bullying_pct": 54.87,
+      "made_fun_of_weekly_pct": 5.96,
+      "threatened_weekly_pct": 2.22,
+      "hit_or_pushed_weekly_pct": 2.39,
+      "rumors_weekly_pct": 5.09,
+      "upsetting_info_posted_online_weekly_pct": 2.5
+    },
+    {
+      "country": "Armenia",
+      "frequently_bullied_pct": 3.72,
+      "any_bullying_pct": 19.89,
+      "made_fun_of_weekly_pct": 1.8,
+      "threatened_weekly_pct": 0.89,
+      "hit_or_pushed_weekly_pct": 1.29,
+      "rumors_weekly_pct": 2.69,
+      "upsetting_info_posted_online_weekly_pct": 1.43
+    },
+    {
+      "country": "Australia",
+      "frequently_bullied_pct": 10.98,
+      "any_bullying_pct": 54.86,
+      "made_fun_of_weekly_pct": 8.82,
+      "threatened_weekly_pct": 2.34,
+      "hit_or_pushed_weekly_pct": 2.86,
+      "rumors_weekly_pct": 3.02,
+      "upsetting_info_posted_online_weekly_pct": null
+    },
+    {
+      "country": "Austria",
+      "frequently_bullied_pct": 10.05,
+      "any_bullying_pct": 52.29,
+      "made_fun_of_weekly_pct": 7.69,
+      "threatened_weekly_pct": 2.69,
+      "hit_or_pushed_weekly_pct": 3.48,
+      "rumors_weekly_pct": 4.54,
+      "upsetting_info_posted_online_weekly_pct": 2.77
+    },
+    {
+      "country": "Azerbaijan",
+      "frequently_bullied_pct": 5.79,
+      "any_bullying_pct": 29.84,
+      "made_fun_of_weekly_pct": 3.98,
+      "threatened_weekly_pct": 1.87,
+      "hit_or_pushed_weekly_pct": 1.72,
+      "rumors_weekly_pct": 2.92,
+      "upsetting_info_posted_online_weekly_pct": 1.77
+    },
+    {
+      "country": "Belgium",
+      "frequently_bullied_pct": 8.11,
+      "any_bullying_pct": 53.11,
+      "made_fun_of_weekly_pct": 5.9,
+      "threatened_weekly_pct": 1.6,
+      "hit_or_pushed_weekly_pct": 1.86,
+      "rumors_weekly_pct": 3.08,
+      "upsetting_info_posted_online_weekly_pct": 1.63
+    },
+    {
+      "country": "Brazil",
+      "frequently_bullied_pct": 6.59,
+      "any_bullying_pct": 48.21,
+      "made_fun_of_weekly_pct": 4.88,
+      "threatened_weekly_pct": 1.29,
+      "hit_or_pushed_weekly_pct": 1.04,
+      "rumors_weekly_pct": 3.46,
+      "upsetting_info_posted_online_weekly_pct": 1.34
+    },
+    {
+      "country": "Brunei Darussalam",
+      "frequently_bullied_pct": 17.71,
+      "any_bullying_pct": 68.12,
+      "made_fun_of_weekly_pct": 13.55,
+      "threatened_weekly_pct": 3.63,
+      "hit_or_pushed_weekly_pct": 3.61,
+      "rumors_weekly_pct": 4.44,
+      "upsetting_info_posted_online_weekly_pct": 2.33
+    },
+    {
+      "country": "B-S-J-Z (China)",
+      "frequently_bullied_pct": 5.11,
+      "any_bullying_pct": 37.59,
+      "made_fun_of_weekly_pct": 5.04,
+      "threatened_weekly_pct": 0.66,
+      "hit_or_pushed_weekly_pct": 0.9,
+      "rumors_weekly_pct": 1.95,
+      "upsetting_info_posted_online_weekly_pct": 0.68
+    },
+    {
+      "country": "Bulgaria",
+      "frequently_bullied_pct": 14.21,
+      "any_bullying_pct": 47.6,
+      "made_fun_of_weekly_pct": 6.81,
+      "threatened_weekly_pct": 3.76,
+      "hit_or_pushed_weekly_pct": 4.64,
+      "rumors_weekly_pct": 6.14,
+      "upsetting_info_posted_online_weekly_pct": 3.92
+    },
+    {
+      "country": "Cambodia",
+      "frequently_bullied_pct": 7.02,
+      "any_bullying_pct": 51.04,
+      "made_fun_of_weekly_pct": 6.1,
+      "threatened_weekly_pct": 1.14,
+      "hit_or_pushed_weekly_pct": 1.72,
+      "rumors_weekly_pct": 3.06,
+      "upsetting_info_posted_online_weekly_pct": 1.38
+    },
+    {
+      "country": "Canada",
+      "frequently_bullied_pct": 10.03,
+      "any_bullying_pct": 50.0,
+      "made_fun_of_weekly_pct": 6.66,
+      "threatened_weekly_pct": 1.9,
+      "hit_or_pushed_weekly_pct": 2.44,
+      "rumors_weekly_pct": 2.83,
+      "upsetting_info_posted_online_weekly_pct": 1.6
+    },
+    {
+      "country": "Chile",
+      "frequently_bullied_pct": 9.48,
+      "any_bullying_pct": 53.91,
+      "made_fun_of_weekly_pct": 4.29,
+      "threatened_weekly_pct": 2.2,
+      "hit_or_pushed_weekly_pct": 2.5,
+      "rumors_weekly_pct": 5.28,
+      "upsetting_info_posted_online_weekly_pct": 2.64
+    },
+    {
+      "country": "Colombia",
+      "frequently_bullied_pct": 8.27,
+      "any_bullying_pct": 56.14,
+      "made_fun_of_weekly_pct": 4.91,
+      "threatened_weekly_pct": 1.41,
+      "hit_or_pushed_weekly_pct": 1.73,
+      "rumors_weekly_pct": 5.12,
+      "upsetting_info_posted_online_weekly_pct": 1.63
+    },
+    {
+      "country": "Costa Rica",
+      "frequently_bullied_pct": 9.32,
+      "any_bullying_pct": 52.66,
+      "made_fun_of_weekly_pct": 5.89,
+      "threatened_weekly_pct": 2.03,
+      "hit_or_pushed_weekly_pct": 2.44,
+      "rumors_weekly_pct": 6.98,
+      "upsetting_info_posted_online_weekly_pct": 2.31
+    },
+    {
+      "country": "Croatia",
+      "frequently_bullied_pct": 6.53,
+      "any_bullying_pct": 38.07,
+      "made_fun_of_weekly_pct": 4.27,
+      "threatened_weekly_pct": 3.0,
+      "hit_or_pushed_weekly_pct": 2.07,
+      "rumors_weekly_pct": 3.19,
+      "upsetting_info_posted_online_weekly_pct": 0.99
+    },
+    {
+      "country": "Cyprus",
+      "frequently_bullied_pct": 14.23,
+      "any_bullying_pct": 46.12,
+      "made_fun_of_weekly_pct": 7.95,
+      "threatened_weekly_pct": 4.84,
+      "hit_or_pushed_weekly_pct": 5.43,
+      "rumors_weekly_pct": 6.67,
+      "upsetting_info_posted_online_weekly_pct": 4.65
+    },
+    {
+      "country": "Czechia",
+      "frequently_bullied_pct": 10.79,
+      "any_bullying_pct": 49.78,
+      "made_fun_of_weekly_pct": 7.07,
+      "threatened_weekly_pct": 2.38,
+      "hit_or_pushed_weekly_pct": 4.95,
+      "rumors_weekly_pct": 5.66,
+      "upsetting_info_posted_online_weekly_pct": 1.98
+    },
+    {
+      "country": "Denmark",
+      "frequently_bullied_pct": 11.53,
+      "any_bullying_pct": 58.96,
+      "made_fun_of_weekly_pct": 7.83,
+      "threatened_weekly_pct": 1.98,
+      "hit_or_pushed_weekly_pct": 3.6,
+      "rumors_weekly_pct": 2.47,
+      "upsetting_info_posted_online_weekly_pct": 1.48
+    },
+    {
+      "country": "Dominican Republic",
+      "frequently_bullied_pct": 12.51,
+      "any_bullying_pct": 55.21,
+      "made_fun_of_weekly_pct": 8.71,
+      "threatened_weekly_pct": 3.52,
+      "hit_or_pushed_weekly_pct": 2.7,
+      "rumors_weekly_pct": 7.32,
+      "upsetting_info_posted_online_weekly_pct": 3.32
+    },
+    {
+      "country": "Dushanbe (Tajikistan)",
+      "frequently_bullied_pct": 6.52,
+      "any_bullying_pct": 31.2,
+      "made_fun_of_weekly_pct": 3.14,
+      "threatened_weekly_pct": 1.58,
+      "hit_or_pushed_weekly_pct": 1.65,
+      "rumors_weekly_pct": 2.85,
+      "upsetting_info_posted_online_weekly_pct": 1.22
+    },
+    {
+      "country": "Ecuador",
+      "frequently_bullied_pct": 9.98,
+      "any_bullying_pct": 56.17,
+      "made_fun_of_weekly_pct": 5.91,
+      "threatened_weekly_pct": 1.66,
+      "hit_or_pushed_weekly_pct": 1.92,
+      "rumors_weekly_pct": 6.55,
+      "upsetting_info_posted_online_weekly_pct": 2.19
+    },
+    {
+      "country": "El Salvador",
+      "frequently_bullied_pct": 12.33,
+      "any_bullying_pct": 64.56,
+      "made_fun_of_weekly_pct": 7.09,
+      "threatened_weekly_pct": 1.5,
+      "hit_or_pushed_weekly_pct": 2.31,
+      "rumors_weekly_pct": 6.57,
+      "upsetting_info_posted_online_weekly_pct": 2.1
+    },
+    {
+      "country": "Estonia",
+      "frequently_bullied_pct": 11.58,
+      "any_bullying_pct": 60.46,
+      "made_fun_of_weekly_pct": 8.52,
+      "threatened_weekly_pct": 2.85,
+      "hit_or_pushed_weekly_pct": 3.27,
+      "rumors_weekly_pct": 2.6,
+      "upsetting_info_posted_online_weekly_pct": 1.44
+    },
+    {
+      "country": "Finland",
+      "frequently_bullied_pct": 8.28,
+      "any_bullying_pct": 43.39,
+      "made_fun_of_weekly_pct": 5.13,
+      "threatened_weekly_pct": 1.98,
+      "hit_or_pushed_weekly_pct": 2.35,
+      "rumors_weekly_pct": 2.77,
+      "upsetting_info_posted_online_weekly_pct": 1.81
+    },
+    {
+      "country": "France",
+      "frequently_bullied_pct": 6.88,
+      "any_bullying_pct": 44.03,
+      "made_fun_of_weekly_pct": 4.99,
+      "threatened_weekly_pct": 1.38,
+      "hit_or_pushed_weekly_pct": 1.43,
+      "rumors_weekly_pct": 2.26,
+      "upsetting_info_posted_online_weekly_pct": 1.26
+    },
+    {
+      "country": "Georgia",
+      "frequently_bullied_pct": 6.44,
+      "any_bullying_pct": 32.17,
+      "made_fun_of_weekly_pct": 3.37,
+      "threatened_weekly_pct": 1.54,
+      "hit_or_pushed_weekly_pct": 2.65,
+      "rumors_weekly_pct": 2.47,
+      "upsetting_info_posted_online_weekly_pct": 1.87
+    },
+    {
+      "country": "Germany",
+      "frequently_bullied_pct": 11.43,
+      "any_bullying_pct": 61.79,
+      "made_fun_of_weekly_pct": 9.36,
+      "threatened_weekly_pct": 1.61,
+      "hit_or_pushed_weekly_pct": 2.36,
+      "rumors_weekly_pct": 4.35,
+      "upsetting_info_posted_online_weekly_pct": 1.95
+    },
+    {
+      "country": "Greece",
+      "frequently_bullied_pct": 8.0,
+      "any_bullying_pct": 47.68,
+      "made_fun_of_weekly_pct": 7.74,
+      "threatened_weekly_pct": 2.39,
+      "hit_or_pushed_weekly_pct": 3.32,
+      "rumors_weekly_pct": 3.7,
+      "upsetting_info_posted_online_weekly_pct": 1.97
+    },
+    {
+      "country": "Guatemala",
+      "frequently_bullied_pct": 11.27,
+      "any_bullying_pct": 49.51,
+      "made_fun_of_weekly_pct": 8.48,
+      "threatened_weekly_pct": 2.39,
+      "hit_or_pushed_weekly_pct": 4.08,
+      "rumors_weekly_pct": 8.84,
+      "upsetting_info_posted_online_weekly_pct": 2.4
+    },
+    {
+      "country": "Hong Kong (China)",
+      "frequently_bullied_pct": 10.99,
+      "any_bullying_pct": 46.39,
+      "made_fun_of_weekly_pct": 9.3,
+      "threatened_weekly_pct": 1.79,
+      "hit_or_pushed_weekly_pct": 3.13,
+      "rumors_weekly_pct": 3.45,
+      "upsetting_info_posted_online_weekly_pct": 1.7
+    },
+    {
+      "country": "Hungary",
+      "frequently_bullied_pct": 8.57,
+      "any_bullying_pct": 44.06,
+      "made_fun_of_weekly_pct": 6.86,
+      "threatened_weekly_pct": 2.25,
+      "hit_or_pushed_weekly_pct": 2.32,
+      "rumors_weekly_pct": 4.38,
+      "upsetting_info_posted_online_weekly_pct": 2.34
+    },
+    {
+      "country": "Iceland",
+      "frequently_bullied_pct": 6.15,
+      "any_bullying_pct": 40.26,
+      "made_fun_of_weekly_pct": 4.8,
+      "threatened_weekly_pct": 1.55,
+      "hit_or_pushed_weekly_pct": 1.63,
+      "rumors_weekly_pct": 1.77,
+      "upsetting_info_posted_online_weekly_pct": 1.15
+    },
+    {
+      "country": "Indonesia",
+      "frequently_bullied_pct": 11.52,
+      "any_bullying_pct": 48.46,
+      "made_fun_of_weekly_pct": 8.19,
+      "threatened_weekly_pct": 1.58,
+      "hit_or_pushed_weekly_pct": 2.8,
+      "rumors_weekly_pct": 5.42,
+      "upsetting_info_posted_online_weekly_pct": 3.21
+    },
+    {
+      "country": "Ireland",
+      "frequently_bullied_pct": 7.72,
+      "any_bullying_pct": 47.67,
+      "made_fun_of_weekly_pct": 5.86,
+      "threatened_weekly_pct": 1.3,
+      "hit_or_pushed_weekly_pct": 1.7,
+      "rumors_weekly_pct": 1.7,
+      "upsetting_info_posted_online_weekly_pct": 0.69
+    },
+    {
+      "country": "Italy",
+      "frequently_bullied_pct": 4.02,
+      "any_bullying_pct": 34.68,
+      "made_fun_of_weekly_pct": 3.07,
+      "threatened_weekly_pct": 0.94,
+      "hit_or_pushed_weekly_pct": 0.91,
+      "rumors_weekly_pct": 1.89,
+      "upsetting_info_posted_online_weekly_pct": 0.7
+    },
+    {
+      "country": "Japan",
+      "frequently_bullied_pct": 6.47,
+      "any_bullying_pct": 31.53,
+      "made_fun_of_weekly_pct": 7.07,
+      "threatened_weekly_pct": 0.76,
+      "hit_or_pushed_weekly_pct": 2.51,
+      "rumors_weekly_pct": 1.54,
+      "upsetting_info_posted_online_weekly_pct": 0.45
+    },
+    {
+      "country": "Jordan",
+      "frequently_bullied_pct": 10.54,
+      "any_bullying_pct": 49.01,
+      "made_fun_of_weekly_pct": 8.16,
+      "threatened_weekly_pct": 2.25,
+      "hit_or_pushed_weekly_pct": 2.66,
+      "rumors_weekly_pct": 4.2,
+      "upsetting_info_posted_online_weekly_pct": 2.31
+    },
+    {
+      "country": "Kazakhstan",
+      "frequently_bullied_pct": 3.35,
+      "any_bullying_pct": 22.52,
+      "made_fun_of_weekly_pct": 2.06,
+      "threatened_weekly_pct": 0.93,
+      "hit_or_pushed_weekly_pct": 0.9,
+      "rumors_weekly_pct": 2.57,
+      "upsetting_info_posted_online_weekly_pct": 1.22
+    },
+    {
+      "country": "Kenya",
+      "frequently_bullied_pct": 34.55,
+      "any_bullying_pct": 78.44,
+      "made_fun_of_weekly_pct": 20.66,
+      "threatened_weekly_pct": 9.19,
+      "hit_or_pushed_weekly_pct": 7.68,
+      "rumors_weekly_pct": 11.52,
+      "upsetting_info_posted_online_weekly_pct": 5.95
+    },
+    {
+      "country": "Korea",
+      "frequently_bullied_pct": 3.56,
+      "any_bullying_pct": 26.95,
+      "made_fun_of_weekly_pct": 7.51,
+      "threatened_weekly_pct": 1.19,
+      "hit_or_pushed_weekly_pct": 1.09,
+      "rumors_weekly_pct": 1.5,
+      "upsetting_info_posted_online_weekly_pct": 0.83
+    },
+    {
+      "country": "Kosovo",
+      "frequently_bullied_pct": 11.24,
+      "any_bullying_pct": 45.07,
+      "made_fun_of_weekly_pct": 5.89,
+      "threatened_weekly_pct": 2.47,
+      "hit_or_pushed_weekly_pct": 3.3,
+      "rumors_weekly_pct": 7.31,
+      "upsetting_info_posted_online_weekly_pct": 4.26
+    },
+    {
+      "country": "Kurdistan Region (Iraq)",
+      "frequently_bullied_pct": 8.16,
+      "any_bullying_pct": 35.6,
+      "made_fun_of_weekly_pct": 4.94,
+      "threatened_weekly_pct": 1.74,
+      "hit_or_pushed_weekly_pct": 2.05,
+      "rumors_weekly_pct": 4.88,
+      "upsetting_info_posted_online_weekly_pct": 1.76
+    },
+    {
+      "country": "Kyrgyzstan",
+      "frequently_bullied_pct": 6.4,
+      "any_bullying_pct": 44.19,
+      "made_fun_of_weekly_pct": 4.25,
+      "threatened_weekly_pct": 1.13,
+      "hit_or_pushed_weekly_pct": 1.38,
+      "rumors_weekly_pct": 3.49,
+      "upsetting_info_posted_online_weekly_pct": 1.49
+    },
+    {
+      "country": "Latvia",
+      "frequently_bullied_pct": 14.16,
+      "any_bullying_pct": 55.98,
+      "made_fun_of_weekly_pct": 5.98,
+      "threatened_weekly_pct": 4.65,
+      "hit_or_pushed_weekly_pct": 4.23,
+      "rumors_weekly_pct": 4.47,
+      "upsetting_info_posted_online_weekly_pct": 2.66
+    },
+    {
+      "country": "Lebanon",
+      "frequently_bullied_pct": 23.73,
+      "any_bullying_pct": 59.11,
+      "made_fun_of_weekly_pct": 7.59,
+      "threatened_weekly_pct": 3.58,
+      "hit_or_pushed_weekly_pct": 3.78,
+      "rumors_weekly_pct": 7.08,
+      "upsetting_info_posted_online_weekly_pct": 5.48
+    },
+    {
+      "country": "Lithuania",
+      "frequently_bullied_pct": 9.78,
+      "any_bullying_pct": 45.27,
+      "made_fun_of_weekly_pct": 5.01,
+      "threatened_weekly_pct": 2.99,
+      "hit_or_pushed_weekly_pct": 2.53,
+      "rumors_weekly_pct": 3.44,
+      "upsetting_info_posted_online_weekly_pct": 2.11
+    },
+    {
+      "country": "Luxembourg",
+      "frequently_bullied_pct": 8.59,
+      "any_bullying_pct": 52.22,
+      "made_fun_of_weekly_pct": 6.41,
+      "threatened_weekly_pct": 2.39,
+      "hit_or_pushed_weekly_pct": 2.43,
+      "rumors_weekly_pct": 4.0,
+      "upsetting_info_posted_online_weekly_pct": 2.34
+    },
+    {
+      "country": "Macao (China)",
+      "frequently_bullied_pct": 11.8,
+      "any_bullying_pct": 55.86,
+      "made_fun_of_weekly_pct": 10.13,
+      "threatened_weekly_pct": 1.76,
+      "hit_or_pushed_weekly_pct": 2.21,
+      "rumors_weekly_pct": 4.12,
+      "upsetting_info_posted_online_weekly_pct": 1.8
+    },
+    {
+      "country": "Malaysia",
+      "frequently_bullied_pct": 11.2,
+      "any_bullying_pct": 58.25,
+      "made_fun_of_weekly_pct": 8.43,
+      "threatened_weekly_pct": 1.67,
+      "hit_or_pushed_weekly_pct": 1.97,
+      "rumors_weekly_pct": 5.23,
+      "upsetting_info_posted_online_weekly_pct": 2.02
+    },
+    {
+      "country": "Malta",
+      "frequently_bullied_pct": 13.24,
+      "any_bullying_pct": 55.51,
+      "made_fun_of_weekly_pct": 8.22,
+      "threatened_weekly_pct": 3.56,
+      "hit_or_pushed_weekly_pct": 4.06,
+      "rumors_weekly_pct": 4.36,
+      "upsetting_info_posted_online_weekly_pct": 2.68
+    },
+    {
+      "country": "Mauritius",
+      "frequently_bullied_pct": 13.19,
+      "any_bullying_pct": 61.38,
+      "made_fun_of_weekly_pct": 9.76,
+      "threatened_weekly_pct": 3.03,
+      "hit_or_pushed_weekly_pct": 2.79,
+      "rumors_weekly_pct": 5.92,
+      "upsetting_info_posted_online_weekly_pct": 2.01
+    },
+    {
+      "country": "Mexico",
+      "frequently_bullied_pct": 7.93,
+      "any_bullying_pct": 47.39,
+      "made_fun_of_weekly_pct": 5.64,
+      "threatened_weekly_pct": 1.47,
+      "hit_or_pushed_weekly_pct": 2.0,
+      "rumors_weekly_pct": 5.05,
+      "upsetting_info_posted_online_weekly_pct": 1.42
+    },
+    {
+      "country": "Moldova",
+      "frequently_bullied_pct": 12.05,
+      "any_bullying_pct": 61.59,
+      "made_fun_of_weekly_pct": 5.46,
+      "threatened_weekly_pct": 2.18,
+      "hit_or_pushed_weekly_pct": 2.55,
+      "rumors_weekly_pct": 6.27,
+      "upsetting_info_posted_online_weekly_pct": 1.75
+    },
+    {
+      "country": "Mongolia",
+      "frequently_bullied_pct": 8.38,
+      "any_bullying_pct": 47.82,
+      "made_fun_of_weekly_pct": 5.03,
+      "threatened_weekly_pct": 2.02,
+      "hit_or_pushed_weekly_pct": 2.06,
+      "rumors_weekly_pct": 3.64,
+      "upsetting_info_posted_online_weekly_pct": 1.93
+    },
+    {
+      "country": "Montenegro",
+      "frequently_bullied_pct": 6.88,
+      "any_bullying_pct": 32.71,
+      "made_fun_of_weekly_pct": 3.66,
+      "threatened_weekly_pct": 3.92,
+      "hit_or_pushed_weekly_pct": 1.57,
+      "rumors_weekly_pct": 3.92,
+      "upsetting_info_posted_online_weekly_pct": 1.54
+    },
+    {
+      "country": "Morocco",
+      "frequently_bullied_pct": 10.3,
+      "any_bullying_pct": 51.71,
+      "made_fun_of_weekly_pct": 4.04,
+      "threatened_weekly_pct": 2.23,
+      "hit_or_pushed_weekly_pct": 2.89,
+      "rumors_weekly_pct": 5.67,
+      "upsetting_info_posted_online_weekly_pct": 2.12
+    },
+    {
+      "country": "Netherlands",
+      "frequently_bullied_pct": 5.26,
+      "any_bullying_pct": 39.5,
+      "made_fun_of_weekly_pct": 3.32,
+      "threatened_weekly_pct": 1.04,
+      "hit_or_pushed_weekly_pct": 1.36,
+      "rumors_weekly_pct": 1.98,
+      "upsetting_info_posted_online_weekly_pct": 1.14
+    },
+    {
+      "country": "New Zealand",
+      "frequently_bullied_pct": 12.24,
+      "any_bullying_pct": 60.56,
+      "made_fun_of_weekly_pct": 9.35,
+      "threatened_weekly_pct": 2.53,
+      "hit_or_pushed_weekly_pct": 2.37,
+      "rumors_weekly_pct": 3.11,
+      "upsetting_info_posted_online_weekly_pct": 1.52
+    },
+    {
+      "country": "North Macedonia",
+      "frequently_bullied_pct": 8.84,
+      "any_bullying_pct": 36.16,
+      "made_fun_of_weekly_pct": 3.95,
+      "threatened_weekly_pct": 2.21,
+      "hit_or_pushed_weekly_pct": 2.54,
+      "rumors_weekly_pct": 4.25,
+      "upsetting_info_posted_online_weekly_pct": 2.92
+    },
+    {
+      "country": "Norway",
+      "frequently_bullied_pct": 8.3,
+      "any_bullying_pct": 45.4,
+      "made_fun_of_weekly_pct": 5.79,
+      "threatened_weekly_pct": 2.21,
+      "hit_or_pushed_weekly_pct": 3.18,
+      "rumors_weekly_pct": 2.36,
+      "upsetting_info_posted_online_weekly_pct": 1.65
+    },
+    {
+      "country": "Palestinian Authority",
+      "frequently_bullied_pct": 11.1,
+      "any_bullying_pct": 46.17,
+      "made_fun_of_weekly_pct": 7.37,
+      "threatened_weekly_pct": 2.33,
+      "hit_or_pushed_weekly_pct": 2.83,
+      "rumors_weekly_pct": 4.81,
+      "upsetting_info_posted_online_weekly_pct": 3.18
+    },
+    {
+      "country": "Paraguay",
+      "frequently_bullied_pct": 13.32,
+      "any_bullying_pct": 58.05,
+      "made_fun_of_weekly_pct": 6.94,
+      "threatened_weekly_pct": 2.7,
+      "hit_or_pushed_weekly_pct": 2.21,
+      "rumors_weekly_pct": 8.5,
+      "upsetting_info_posted_online_weekly_pct": 2.55
+    },
+    {
+      "country": "Peru",
+      "frequently_bullied_pct": 10.0,
+      "any_bullying_pct": 56.93,
+      "made_fun_of_weekly_pct": 7.55,
+      "threatened_weekly_pct": 1.62,
+      "hit_or_pushed_weekly_pct": 2.57,
+      "rumors_weekly_pct": 6.17,
+      "upsetting_info_posted_online_weekly_pct": 2.27
+    },
+    {
+      "country": "Philippines",
+      "frequently_bullied_pct": 30.96,
+      "any_bullying_pct": 74.8,
+      "made_fun_of_weekly_pct": 19.95,
+      "threatened_weekly_pct": 8.62,
+      "hit_or_pushed_weekly_pct": 6.78,
+      "rumors_weekly_pct": 8.52,
+      "upsetting_info_posted_online_weekly_pct": 6.23
+    },
+    {
+      "country": "Poland",
+      "frequently_bullied_pct": 8.1,
+      "any_bullying_pct": 44.13,
+      "made_fun_of_weekly_pct": 5.64,
+      "threatened_weekly_pct": 1.93,
+      "hit_or_pushed_weekly_pct": 2.27,
+      "rumors_weekly_pct": 4.53,
+      "upsetting_info_posted_online_weekly_pct": 1.8
+    },
+    {
+      "country": "Portugal",
+      "frequently_bullied_pct": 5.13,
+      "any_bullying_pct": 37.89,
+      "made_fun_of_weekly_pct": 4.71,
+      "threatened_weekly_pct": 1.12,
+      "hit_or_pushed_weekly_pct": 1.15,
+      "rumors_weekly_pct": 2.88,
+      "upsetting_info_posted_online_weekly_pct": 1.01
+    },
+    {
+      "country": "Qatar",
+      "frequently_bullied_pct": 12.33,
+      "any_bullying_pct": 52.05,
+      "made_fun_of_weekly_pct": 7.46,
+      "threatened_weekly_pct": 2.4,
+      "hit_or_pushed_weekly_pct": 2.91,
+      "rumors_weekly_pct": 4.48,
+      "upsetting_info_posted_online_weekly_pct": 2.38
+    },
+    {
+      "country": "Romania",
+      "frequently_bullied_pct": 9.73,
+      "any_bullying_pct": 51.17,
+      "made_fun_of_weekly_pct": 6.31,
+      "threatened_weekly_pct": 2.21,
+      "hit_or_pushed_weekly_pct": 2.31,
+      "rumors_weekly_pct": 4.24,
+      "upsetting_info_posted_online_weekly_pct": 1.74
+    },
+    {
+      "country": "Rwanda",
+      "frequently_bullied_pct": 40.74,
+      "any_bullying_pct": 83.79,
+      "made_fun_of_weekly_pct": 18.58,
+      "threatened_weekly_pct": 10.33,
+      "hit_or_pushed_weekly_pct": 9.48,
+      "rumors_weekly_pct": 12.1,
+      "upsetting_info_posted_online_weekly_pct": 11.97
+    },
+    {
+      "country": "Saudi Arabia",
+      "frequently_bullied_pct": 4.96,
+      "any_bullying_pct": 30.69,
+      "made_fun_of_weekly_pct": 3.58,
+      "threatened_weekly_pct": 1.31,
+      "hit_or_pushed_weekly_pct": 1.19,
+      "rumors_weekly_pct": 2.29,
+      "upsetting_info_posted_online_weekly_pct": 1.46
+    },
+    {
+      "country": "Serbia",
+      "frequently_bullied_pct": 6.88,
+      "any_bullying_pct": 29.19,
+      "made_fun_of_weekly_pct": 3.99,
+      "threatened_weekly_pct": 2.49,
+      "hit_or_pushed_weekly_pct": 2.01,
+      "rumors_weekly_pct": 3.94,
+      "upsetting_info_posted_online_weekly_pct": 2.15
+    },
+    {
+      "country": "Singapore",
+      "frequently_bullied_pct": 8.75,
+      "any_bullying_pct": 52.27,
+      "made_fun_of_weekly_pct": 7.6,
+      "threatened_weekly_pct": 1.31,
+      "hit_or_pushed_weekly_pct": 2.05,
+      "rumors_weekly_pct": 2.23,
+      "upsetting_info_posted_online_weekly_pct": 0.77
+    },
+    {
+      "country": "Slovak Republic",
+      "frequently_bullied_pct": 7.64,
+      "any_bullying_pct": 43.48,
+      "made_fun_of_weekly_pct": 5.17,
+      "threatened_weekly_pct": 1.93,
+      "hit_or_pushed_weekly_pct": 2.35,
+      "rumors_weekly_pct": 5.22,
+      "upsetting_info_posted_online_weekly_pct": 1.42
+    },
+    {
+      "country": "Slovenia",
+      "frequently_bullied_pct": 9.52,
+      "any_bullying_pct": 41.9,
+      "made_fun_of_weekly_pct": 6.02,
+      "threatened_weekly_pct": 2.84,
+      "hit_or_pushed_weekly_pct": 4.2,
+      "rumors_weekly_pct": 4.4,
+      "upsetting_info_posted_online_weekly_pct": 2.36
+    },
+    {
+      "country": "Spain",
+      "frequently_bullied_pct": 5.37,
+      "any_bullying_pct": 40.06,
+      "made_fun_of_weekly_pct": 4.05,
+      "threatened_weekly_pct": 1.52,
+      "hit_or_pushed_weekly_pct": 1.73,
+      "rumors_weekly_pct": 2.84,
+      "upsetting_info_posted_online_weekly_pct": 1.17
+    },
+    {
+      "country": "Sweden",
+      "frequently_bullied_pct": 7.89,
+      "any_bullying_pct": 43.79,
+      "made_fun_of_weekly_pct": 5.9,
+      "threatened_weekly_pct": 1.72,
+      "hit_or_pushed_weekly_pct": 2.63,
+      "rumors_weekly_pct": 2.18,
+      "upsetting_info_posted_online_weekly_pct": null
+    },
+    {
+      "country": "Switzerland",
+      "frequently_bullied_pct": 8.93,
+      "any_bullying_pct": 53.08,
+      "made_fun_of_weekly_pct": 7.38,
+      "threatened_weekly_pct": 2.07,
+      "hit_or_pushed_weekly_pct": 2.79,
+      "rumors_weekly_pct": 3.51,
+      "upsetting_info_posted_online_weekly_pct": 2.13
+    },
+    {
+      "country": "Chinese Taipei",
+      "frequently_bullied_pct": 3.63,
+      "any_bullying_pct": 28.95,
+      "made_fun_of_weekly_pct": 4.24,
+      "threatened_weekly_pct": 0.5,
+      "hit_or_pushed_weekly_pct": 0.52,
+      "rumors_weekly_pct": 1.41,
+      "upsetting_info_posted_online_weekly_pct": 0.69
+    },
+    {
+      "country": "Thailand",
+      "frequently_bullied_pct": 7.85,
+      "any_bullying_pct": 41.81,
+      "made_fun_of_weekly_pct": 6.38,
+      "threatened_weekly_pct": 1.71,
+      "hit_or_pushed_weekly_pct": 1.08,
+      "rumors_weekly_pct": 3.42,
+      "upsetting_info_posted_online_weekly_pct": 2.55
+    },
+    {
+      "country": "Türkiye",
+      "frequently_bullied_pct": 8.11,
+      "any_bullying_pct": 47.88,
+      "made_fun_of_weekly_pct": 7.2,
+      "threatened_weekly_pct": 1.51,
+      "hit_or_pushed_weekly_pct": 1.86,
+      "rumors_weekly_pct": 3.84,
+      "upsetting_info_posted_online_weekly_pct": 1.48
+    },
+    {
+      "country": "Ukrainian regions (17 of 27)",
+      "frequently_bullied_pct": 6.73,
+      "any_bullying_pct": 34.9,
+      "made_fun_of_weekly_pct": 3.38,
+      "threatened_weekly_pct": 1.97,
+      "hit_or_pushed_weekly_pct": 2.12,
+      "rumors_weekly_pct": 3.34,
+      "upsetting_info_posted_online_weekly_pct": 1.73
+    },
+    {
+      "country": "United Arab Emirates",
+      "frequently_bullied_pct": 11.98,
+      "any_bullying_pct": 48.71,
+      "made_fun_of_weekly_pct": 7.26,
+      "threatened_weekly_pct": 2.82,
+      "hit_or_pushed_weekly_pct": 3.12,
+      "rumors_weekly_pct": 4.55,
+      "upsetting_info_posted_online_weekly_pct": 2.89
+    },
+    {
+      "country": "United Kingdom",
+      "frequently_bullied_pct": 12.15,
+      "any_bullying_pct": 56.09,
+      "made_fun_of_weekly_pct": 9.08,
+      "threatened_weekly_pct": 2.42,
+      "hit_or_pushed_weekly_pct": 3.29,
+      "rumors_weekly_pct": 3.1,
+      "upsetting_info_posted_online_weekly_pct": 1.43
+    },
+    {
+      "country": "Uruguay",
+      "frequently_bullied_pct": 6.79,
+      "any_bullying_pct": 47.24,
+      "made_fun_of_weekly_pct": 4.72,
+      "threatened_weekly_pct": 1.45,
+      "hit_or_pushed_weekly_pct": 1.74,
+      "rumors_weekly_pct": 3.41,
+      "upsetting_info_posted_online_weekly_pct": 1.34
+    },
+    {
+      "country": "Uzbekistan",
+      "frequently_bullied_pct": 3.59,
+      "any_bullying_pct": 24.47,
+      "made_fun_of_weekly_pct": 2.07,
+      "threatened_weekly_pct": 0.88,
+      "hit_or_pushed_weekly_pct": 0.87,
+      "rumors_weekly_pct": 2.19,
+      "upsetting_info_posted_online_weekly_pct": 1.0
+    },
+    {
+      "country": "Viet Nam",
+      "frequently_bullied_pct": 8.29,
+      "any_bullying_pct": 45.83,
+      "made_fun_of_weekly_pct": 7.4,
+      "threatened_weekly_pct": 1.91,
+      "hit_or_pushed_weekly_pct": 1.48,
+      "rumors_weekly_pct": 3.91,
+      "upsetting_info_posted_online_weekly_pct": 1.46
+    },
+    {
+      "country": "Zambia",
+      "frequently_bullied_pct": 21.05,
+      "any_bullying_pct": 69.8,
+      "made_fun_of_weekly_pct": 14.23,
+      "threatened_weekly_pct": 5.76,
+      "hit_or_pushed_weekly_pct": 4.61,
+      "rumors_weekly_pct": 8.63,
+      "upsetting_info_posted_online_weekly_pct": 3.22
+    },
+    {
+      "country": "Albania",
+      "frequently_bullied_pct": 3.59,
+      "any_bullying_pct": 26.06,
+      "made_fun_of_weekly_pct": 2.52,
+      "threatened_weekly_pct": 1.21,
+      "hit_or_pushed_weekly_pct": 1.52,
+      "rumors_weekly_pct": 2.71,
+      "upsetting_info_posted_online_weekly_pct": 1.49
+    },
+    {
+      "country": "United States",
+      "frequently_bullied_pct": 8.11,
+      "any_bullying_pct": 47.11,
+      "made_fun_of_weekly_pct": 5.92,
+      "threatened_weekly_pct": 1.2,
+      "hit_or_pushed_weekly_pct": 1.5,
+      "rumors_weekly_pct": 2.61,
+      "upsetting_info_posted_online_weekly_pct": 1.36
+    }
+  ]
+}

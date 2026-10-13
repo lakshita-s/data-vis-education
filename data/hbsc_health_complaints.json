@@ -1,0 +1,796 @@
+{
+    "data": [
+  {
+    "Country": "Italy",
+    "Age_group": "11-year-olds",
+    "Girl": 61,
+    "Boy": 44
+  },
+  {
+    "Country": "England",
+    "Age_group": "11-year-olds",
+    "Girl": 62,
+    "Boy": 40
+  },
+  {
+    "Country": "Iceland",
+    "Age_group": "11-year-olds",
+    "Girl": 51,
+    "Boy": 43
+  },
+  {
+    "Country": "Greece",
+    "Age_group": "11-year-olds",
+    "Girl": 52,
+    "Boy": 41
+  },
+  {
+    "Country": "Poland",
+    "Age_group": "11-year-olds",
+    "Girl": 53,
+    "Boy": 39
+  },
+  {
+    "Country": "Belgium (French)",
+    "Age_group": "11-year-olds",
+    "Girl": 53,
+    "Boy": 38
+  },
+  {
+    "Country": "Armenia",
+    "Age_group": "11-year-olds",
+    "Girl": 45,
+    "Boy": 42
+  },
+  {
+    "Country": "Wales",
+    "Age_group": "11-year-olds",
+    "Girl": 48,
+    "Boy": 37
+  },
+  {
+    "Country": "France",
+    "Age_group": "11-year-olds",
+    "Girl": 47,
+    "Boy": 37
+  },
+  {
+    "Country": "Slovakia",
+    "Age_group": "11-year-olds",
+    "Girl": 47,
+    "Boy": 35
+  },
+  {
+    "Country": "Hungary",
+    "Age_group": "11-year-olds",
+    "Girl": 43,
+    "Boy": 37
+  },
+  {
+    "Country": "Malta",
+    "Age_group": "11-year-olds",
+    "Girl": 49,
+    "Boy": 31
+  },
+  {
+    "Country": "Bulgaria",
+    "Age_group": "11-year-olds",
+    "Girl": 46,
+    "Boy": 33
+  },
+  {
+    "Country": "Estonia",
+    "Age_group": "11-year-olds",
+    "Girl": 44,
+    "Boy": 35
+  },
+  {
+    "Country": "Lithuania",
+    "Age_group": "11-year-olds",
+    "Girl": 46,
+    "Boy": 32
+  },
+  {
+    "Country": "Sweden",
+    "Age_group": "11-year-olds",
+    "Girl": 46,
+    "Boy": 31
+  },
+  {
+    "Country": "Scotland",
+    "Age_group": "11-year-olds",
+    "Girl": 41,
+    "Boy": 36
+  },
+  {
+    "Country": "Greenland",
+    "Age_group": "11-year-olds",
+    "Girl": 46,
+    "Boy": 31
+  },
+  {
+    "Country": "Kyrgyztan",
+    "Age_group": "11-year-olds",
+    "Girl": 42,
+    "Boy": 34
+  },
+  {
+    "Country": "Czechia",
+    "Age_group": "11-year-olds",
+    "Girl": 42,
+    "Boy": 30
+  },
+  {
+    "Country": "Kazakhstan",
+    "Age_group": "11-year-olds",
+    "Girl": 40,
+    "Boy": 31
+  },
+  {
+    "Country": "Romania",
+    "Age_group": "11-year-olds",
+    "Girl": 41,
+    "Boy": 30
+  },
+  {
+    "Country": "Republic of Moldova",
+    "Age_group": "11-year-olds",
+    "Girl": 38,
+    "Boy": 32
+  },
+  {
+    "Country": "Canada",
+    "Age_group": "11-year-olds",
+    "Girl": 45,
+    "Boy": 24
+  },
+  {
+    "Country": "Cyprus",
+    "Age_group": "11-year-olds",
+    "Girl": 39,
+    "Boy": 31
+  },
+  {
+    "Country": "Latvia",
+    "Age_group": "11-year-olds",
+    "Girl": 41,
+    "Boy": 28
+  },
+  {
+    "Country": "Luxembourg",
+    "Age_group": "11-year-olds",
+    "Girl": 39,
+    "Boy": 29
+  },
+  {
+    "Country": "Portugal",
+    "Age_group": "11-year-olds",
+    "Girl": 42,
+    "Boy": 26
+  },
+  {
+    "Country": "Norway",
+    "Age_group": "11-year-olds",
+    "Girl": 42,
+    "Boy": 25
+  },
+  {
+    "Country": "Tajikistan",
+    "Age_group": "11-year-olds",
+    "Girl": 35,
+    "Boy": 32
+  },
+  {
+    "Country": "Denmark",
+    "Age_group": "11-year-olds",
+    "Girl": 41,
+    "Boy": 26
+  },
+  {
+    "Country": "Belgium (Flemish)",
+    "Age_group": "11-year-olds",
+    "Girl": 37,
+    "Boy": 28
+  },
+  {
+    "Country": "Netherlands",
+    "Age_group": "11-year-olds",
+    "Girl": 39,
+    "Boy": 26
+  },
+  {
+    "Country": "Switzerland",
+    "Age_group": "11-year-olds",
+    "Girl": 37,
+    "Boy": 27
+  },
+  {
+    "Country": "Albania",
+    "Age_group": "11-year-olds",
+    "Girl": 32,
+    "Boy": 29
+  },
+  {
+    "Country": "Germany",
+    "Age_group": "11-year-olds",
+    "Girl": 34,
+    "Boy": 26
+  },
+  {
+    "Country": "Finland",
+    "Age_group": "11-year-olds",
+    "Girl": 40,
+    "Boy": 19
+  },
+  {
+    "Country": "Austria",
+    "Age_group": "11-year-olds",
+    "Girl": 33,
+    "Boy": 25
+  },
+  {
+    "Country": "Ireland",
+    "Age_group": "11-year-olds",
+    "Girl": 34,
+    "Boy": 24
+  },
+  {
+    "Country": "Croatia",
+    "Age_group": "11-year-olds",
+    "Girl": 33,
+    "Boy": 24
+  },
+  {
+    "Country": "Serbia",
+    "Age_group": "11-year-olds",
+    "Girl": 27,
+    "Boy": 27
+  },
+  {
+    "Country": "North Macedonia",
+    "Age_group": "11-year-olds",
+    "Girl": 26,
+    "Boy": 25
+  },
+  {
+    "Country": "Spain",
+    "Age_group": "11-year-olds",
+    "Girl": 29,
+    "Boy": 21
+  },
+  {
+    "Country": "Slovenia",
+    "Age_group": "11-year-olds",
+    "Girl": 25,
+    "Boy": 16
+  },
+  {
+    "Country": "Greece",
+    "Age_group": "13-year-olds",
+    "Girl": 76,
+    "Boy": 50
+  },
+  {
+    "Country": "Italy",
+    "Age_group": "13-year-olds",
+    "Girl": 78,
+    "Boy": 43
+  },
+  {
+    "Country": "Poland",
+    "Age_group": "13-year-olds",
+    "Girl": 71,
+    "Boy": 47
+  },
+  {
+    "Country": "England",
+    "Age_group": "13-year-olds",
+    "Girl": 72,
+    "Boy": 43
+  },
+  {
+    "Country": "Belgium (French)",
+    "Age_group": "13-year-olds",
+    "Girl": 68,
+    "Boy": 44
+  },
+  {
+    "Country": "Sweden",
+    "Age_group": "13-year-olds",
+    "Girl": 68,
+    "Boy": 39
+  },
+  {
+    "Country": "Slovakia",
+    "Age_group": "13-year-olds",
+    "Girl": 66,
+    "Boy": 41
+  },
+  {
+    "Country": "France",
+    "Age_group": "13-year-olds",
+    "Girl": 63,
+    "Boy": 41
+  },
+  {
+    "Country": "Hungary",
+    "Age_group": "13-year-olds",
+    "Girl": 67,
+    "Boy": 38
+  },
+  {
+    "Country": "Scotland",
+    "Age_group": "13-year-olds",
+    "Girl": 67,
+    "Boy": 35
+  },
+  {
+    "Country": "Iceland",
+    "Age_group": "13-year-olds",
+    "Girl": 65,
+    "Boy": 36
+  },
+  {
+    "Country": "Bulgaria",
+    "Age_group": "13-year-olds",
+    "Girl": 64,
+    "Boy": 37
+  },
+  {
+    "Country": "Romania",
+    "Age_group": "13-year-olds",
+    "Girl": 61,
+    "Boy": 39
+  },
+  {
+    "Country": "Malta",
+    "Age_group": "13-year-olds",
+    "Girl": 64,
+    "Boy": 34
+  },
+  {
+    "Country": "Estonia",
+    "Age_group": "13-year-olds",
+    "Girl": 63,
+    "Boy": 34
+  },
+  {
+    "Country": "Luxembourg",
+    "Age_group": "13-year-olds",
+    "Girl": 64,
+    "Boy": 34
+  },
+  {
+    "Country": "Wales",
+    "Age_group": "13-year-olds",
+    "Girl": 61,
+    "Boy": 35
+  },
+  {
+    "Country": "Lithuania",
+    "Age_group": "13-year-olds",
+    "Girl": 64,
+    "Boy": 30
+  },
+  {
+    "Country": "Latvia",
+    "Age_group": "13-year-olds",
+    "Girl": 64,
+    "Boy": 30
+  },
+  {
+    "Country": "Armenia",
+    "Age_group": "13-year-olds",
+    "Girl": 55,
+    "Boy": 38
+  },
+  {
+    "Country": "Czechia",
+    "Age_group": "13-year-olds",
+    "Girl": 59,
+    "Boy": 34
+  },
+  {
+    "Country": "Cyprus",
+    "Age_group": "13-year-olds",
+    "Girl": 55,
+    "Boy": 35
+  },
+  {
+    "Country": "Ireland",
+    "Age_group": "13-year-olds",
+    "Girl": 56,
+    "Boy": 34
+  },
+  {
+    "Country": "Switzerland",
+    "Age_group": "13-year-olds",
+    "Girl": 57,
+    "Boy": 31
+  },
+  {
+    "Country": "Canada",
+    "Age_group": "13-year-olds",
+    "Girl": 59,
+    "Boy": 27
+  },
+  {
+    "Country": "Finland",
+    "Age_group": "13-year-olds",
+    "Girl": 58,
+    "Boy": 27
+  },
+  {
+    "Country": "Netherlands",
+    "Age_group": "13-year-olds",
+    "Girl": 54,
+    "Boy": 31
+  },
+  {
+    "Country": "Germany",
+    "Age_group": "13-year-olds",
+    "Girl": 55,
+    "Boy": 30
+  },
+  {
+    "Country": "Portugal",
+    "Age_group": "13-year-olds",
+    "Girl": 58,
+    "Boy": 25
+  },
+  {
+    "Country": "Croatia",
+    "Age_group": "13-year-olds",
+    "Girl": 54,
+    "Boy": 27
+  },
+  {
+    "Country": "Belgium (Flemish)",
+    "Age_group": "13-year-olds",
+    "Girl": 52,
+    "Boy": 28
+  },
+  {
+    "Country": "Greenland",
+    "Age_group": "13-year-olds",
+    "Girl": 48,
+    "Boy": 32
+  },
+  {
+    "Country": "Norway",
+    "Age_group": "13-year-olds",
+    "Girl": 53,
+    "Boy": 27
+  },
+  {
+    "Country": "Albania",
+    "Age_group": "13-year-olds",
+    "Girl": 49,
+    "Boy": 30
+  },
+  {
+    "Country": "Denmark",
+    "Age_group": "13-year-olds",
+    "Girl": 52,
+    "Boy": 24
+  },
+  {
+    "Country": "Kyrgyztan",
+    "Age_group": "13-year-olds",
+    "Girl": 46,
+    "Boy": 30
+  },
+  {
+    "Country": "Serbia",
+    "Age_group": "13-year-olds",
+    "Girl": 50,
+    "Boy": 27
+  },
+  {
+    "Country": "Kazakhstan",
+    "Age_group": "13-year-olds",
+    "Girl": 48,
+    "Boy": 27
+  },
+  {
+    "Country": "Austria",
+    "Age_group": "13-year-olds",
+    "Girl": 47,
+    "Boy": 27
+  },
+  {
+    "Country": "Republic of Moldova",
+    "Age_group": "13-year-olds",
+    "Girl": 47,
+    "Boy": 27
+  },
+  {
+    "Country": "Slovenia",
+    "Age_group": "13-year-olds",
+    "Girl": 51,
+    "Boy": 22
+  },
+  {
+    "Country": "North Macedonia",
+    "Age_group": "13-year-olds",
+    "Girl": 45,
+    "Boy": 26
+  },
+  {
+    "Country": "Spain",
+    "Age_group": "13-year-olds",
+    "Girl": 46,
+    "Boy": 24
+  },
+  {
+    "Country": "Tajikistan",
+    "Age_group": "13-year-olds",
+    "Girl": 37,
+    "Boy": 33
+  },
+  {
+    "Country": "Italy",
+    "Age_group": "15-year-olds",
+    "Girl": 86,
+    "Boy": 46
+  },
+  {
+    "Country": "Greece",
+    "Age_group": "15-year-olds",
+    "Girl": 81,
+    "Boy": 51
+  },
+  {
+    "Country": "Sweden",
+    "Age_group": "15-year-olds",
+    "Girl": 78,
+    "Boy": 46
+  },
+  {
+    "Country": "England",
+    "Age_group": "15-year-olds",
+    "Girl": 77,
+    "Boy": 45
+  },
+  {
+    "Country": "Poland",
+    "Age_group": "15-year-olds",
+    "Girl": 73,
+    "Boy": 45
+  },
+  {
+    "Country": "Belgium (French)",
+    "Age_group": "15-year-olds",
+    "Girl": 74,
+    "Boy": 43
+  },
+  {
+    "Country": "Hungary",
+    "Age_group": "15-year-olds",
+    "Girl": 73,
+    "Boy": 44
+  },
+  {
+    "Country": "Estonia",
+    "Age_group": "15-year-olds",
+    "Girl": 72,
+    "Boy": 43
+  },
+  {
+    "Country": "Malta",
+    "Age_group": "15-year-olds",
+    "Girl": 71,
+    "Boy": 43
+  },
+  {
+    "Country": "Scotland",
+    "Age_group": "15-year-olds",
+    "Girl": 73,
+    "Boy": 41
+  },
+  {
+    "Country": "Ireland",
+    "Age_group": "15-year-olds",
+    "Girl": 71,
+    "Boy": 41
+  },
+  {
+    "Country": "Romania",
+    "Age_group": "15-year-olds",
+    "Girl": 67,
+    "Boy": 45
+  },
+  {
+    "Country": "France",
+    "Age_group": "15-year-olds",
+    "Girl": 72,
+    "Boy": 39
+  },
+  {
+    "Country": "Wales",
+    "Age_group": "15-year-olds",
+    "Girl": 70,
+    "Boy": 42
+  },
+  {
+    "Country": "Slovakia",
+    "Age_group": "15-year-olds",
+    "Girl": 70,
+    "Boy": 40
+  },
+  {
+    "Country": "Latvia",
+    "Age_group": "15-year-olds",
+    "Girl": 72,
+    "Boy": 37
+  },
+  {
+    "Country": "Lithuania",
+    "Age_group": "15-year-olds",
+    "Girl": 70,
+    "Boy": 38
+  },
+  {
+    "Country": "Bulgaria",
+    "Age_group": "15-year-olds",
+    "Girl": 67,
+    "Boy": 40
+  },
+  {
+    "Country": "Luxembourg",
+    "Age_group": "15-year-olds",
+    "Girl": 69,
+    "Boy": 38
+  },
+  {
+    "Country": "Cyprus",
+    "Age_group": "15-year-olds",
+    "Girl": 67,
+    "Boy": 40
+  },
+  {
+    "Country": "Canada",
+    "Age_group": "15-year-olds",
+    "Girl": 70,
+    "Boy": 37
+  },
+  {
+    "Country": "Armenia",
+    "Age_group": "15-year-olds",
+    "Girl": 64,
+    "Boy": 39
+  },
+  {
+    "Country": "Iceland",
+    "Age_group": "15-year-olds",
+    "Girl": 68,
+    "Boy": 33
+  },
+  {
+    "Country": "North Macedonia",
+    "Age_group": "15-year-olds",
+    "Girl": 64,
+    "Boy": 37
+  },
+  {
+    "Country": "Germany",
+    "Age_group": "15-year-olds",
+    "Girl": 67,
+    "Boy": 31
+  },
+  {
+    "Country": "Portugal",
+    "Age_group": "15-year-olds",
+    "Girl": 66,
+    "Boy": 32
+  },
+  {
+    "Country": "Czechia",
+    "Age_group": "15-year-olds",
+    "Girl": 63,
+    "Boy": 34
+  },
+  {
+    "Country": "Switzerland",
+    "Age_group": "15-year-olds",
+    "Girl": 65,
+    "Boy": 31
+  },
+  {
+    "Country": "Belgium (Flemish)",
+    "Age_group": "15-year-olds",
+    "Girl": 63,
+    "Boy": 32
+  },
+  {
+    "Country": "Greenland",
+    "Age_group": "15-year-olds",
+    "Girl": 64,
+    "Boy": 31
+  },
+  {
+    "Country": "Austria",
+    "Age_group": "15-year-olds",
+    "Girl": 60,
+    "Boy": 32
+  },
+  {
+    "Country": "Albania",
+    "Age_group": "15-year-olds",
+    "Girl": 57,
+    "Boy": 34
+  },
+  {
+    "Country": "Norway",
+    "Age_group": "15-year-olds",
+    "Girl": 57,
+    "Boy": 33
+  },
+  {
+    "Country": "Serbia",
+    "Age_group": "15-year-olds",
+    "Girl": 55,
+    "Boy": 31
+  },
+  {
+    "Country": "Republic of Moldova",
+    "Age_group": "15-year-olds",
+    "Girl": 57,
+    "Boy": 29
+  },
+  {
+    "Country": "Kyrgyztan",
+    "Age_group": "15-year-olds",
+    "Girl": 54,
+    "Boy": 31
+  },
+  {
+    "Country": "Croatia",
+    "Age_group": "15-year-olds",
+    "Girl": 60,
+    "Boy": 25
+  },
+  {
+    "Country": "Netherlands",
+    "Age_group": "15-year-olds",
+    "Girl": 58,
+    "Boy": 27
+  },
+  {
+    "Country": "Denmark",
+    "Age_group": "15-year-olds",
+    "Girl": 57,
+    "Boy": 28
+  },
+  {
+    "Country": "Finland",
+    "Age_group": "15-year-olds",
+    "Girl": 62,
+    "Boy": 23
+  },
+  {
+    "Country": "Slovenia",
+    "Age_group": "15-year-olds",
+    "Girl": 59,
+    "Boy": 25
+  },
+  {
+    "Country": "Kazakhstan",
+    "Age_group": "15-year-olds",
+    "Girl": 54,
+    "Boy": 26
+  },
+  {
+    "Country": "Spain",
+    "Age_group": "15-year-olds",
+    "Girl": 55,
+    "Boy": 25
+  },
+  {
+    "Country": "Tajikistan",
+    "Age_group": "15-year-olds",
+    "Girl": 44,
+    "Boy": 34
+  }
+]
+}
